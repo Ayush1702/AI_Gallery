@@ -1,0 +1,10 @@
+car
+cats
+dogs
+festivals
+food
+house
+mountain
+outdoor
+playground
+sea
